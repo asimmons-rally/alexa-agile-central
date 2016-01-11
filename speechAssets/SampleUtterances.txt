@@ -1,0 +1,157 @@
+
+ArtifactCreateIntent create {Type} named {one|Name}
+ArtifactCreateIntent create {Type} named {one two|Name}
+ArtifactCreateIntent create {Type} named {one two three|Name}
+ArtifactCreateIntent create {Type} named {one two three four|Name}
+ArtifactCreateIntent create {Type} named {one two three four five|Name}
+ArtifactCreateIntent create {Type} named {one two three four five six|Name}
+ArtifactCreateIntent create {Type} named {one two three four five six seven|Name}
+ArtifactCreateIntent create {Type} named {one two three four five six seven eight|Name}
+ArtifactCreateIntent create {Type} named {one two three four five six seven eight nine|Name}
+ArtifactCreateIntent create {Type} named {one two three four five six seven eight nine ten|Name}
+ArtifactCreateIntent create {Type} named {one two three four five six seven eight nine ten eleven|Name}
+ArtifactCreateIntent create {Type} named {one two three four five six seven eight nine ten eleven twelve|Name}
+ArtifactCreateIntent create {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen|Name}
+ArtifactCreateIntent create {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen|Name}
+ArtifactCreateIntent create {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen|Name}
+ArtifactCreateIntent create {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen|Name}
+ArtifactCreateIntent create {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen|Name}
+ArtifactCreateIntent create {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen|Name}
+ArtifactCreateIntent create {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen|Name}
+ArtifactCreateIntent create {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty|Name}
+ArtifactCreateIntent create a {Type} named {one|Name}
+ArtifactCreateIntent create a {Type} named {one two|Name}
+ArtifactCreateIntent create a {Type} named {one two three|Name}
+ArtifactCreateIntent create a {Type} named {one two three four|Name}
+ArtifactCreateIntent create a {Type} named {one two three four five|Name}
+ArtifactCreateIntent create a {Type} named {one two three four five six|Name}
+ArtifactCreateIntent create a {Type} named {one two three four five six seven|Name}
+ArtifactCreateIntent create a {Type} named {one two three four five six seven eight|Name}
+ArtifactCreateIntent create a {Type} named {one two three four five six seven eight nine|Name}
+ArtifactCreateIntent create a {Type} named {one two three four five six seven eight nine ten|Name}
+ArtifactCreateIntent create a {Type} named {one two three four five six seven eight nine ten eleven|Name}
+ArtifactCreateIntent create a {Type} named {one two three four five six seven eight nine ten eleven twelve|Name}
+ArtifactCreateIntent create a {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen|Name}
+ArtifactCreateIntent create a {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen|Name}
+ArtifactCreateIntent create a {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen|Name}
+ArtifactCreateIntent create a {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen|Name}
+ArtifactCreateIntent create a {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen|Name}
+ArtifactCreateIntent create a {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen|Name}
+ArtifactCreateIntent create a {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen|Name}
+ArtifactCreateIntent create a {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty|Name}
+ArtifactCreateIntent make {Type} named {one|Name}
+ArtifactCreateIntent make {Type} named {one two|Name}
+ArtifactCreateIntent make {Type} named {one two three|Name}
+ArtifactCreateIntent make {Type} named {one two three four|Name}
+ArtifactCreateIntent make {Type} named {one two three four five|Name}
+ArtifactCreateIntent make {Type} named {one two three four five six|Name}
+ArtifactCreateIntent make {Type} named {one two three four five six seven|Name}
+ArtifactCreateIntent make {Type} named {one two three four five six seven eight|Name}
+ArtifactCreateIntent make {Type} named {one two three four five six seven eight nine|Name}
+ArtifactCreateIntent make {Type} named {one two three four five six seven eight nine ten|Name}
+ArtifactCreateIntent make {Type} named {one two three four five six seven eight nine ten eleven|Name}
+ArtifactCreateIntent make {Type} named {one two three four five six seven eight nine ten eleven twelve|Name}
+ArtifactCreateIntent make {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen|Name}
+ArtifactCreateIntent make {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen|Name}
+ArtifactCreateIntent make {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen|Name}
+ArtifactCreateIntent make {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen|Name}
+ArtifactCreateIntent make {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen|Name}
+ArtifactCreateIntent make {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen|Name}
+ArtifactCreateIntent make {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen|Name}
+ArtifactCreateIntent make {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty|Name}
+ArtifactCreateIntent make a {Type} named {one|Name}
+ArtifactCreateIntent make a {Type} named {one two|Name}
+ArtifactCreateIntent make a {Type} named {one two three|Name}
+ArtifactCreateIntent make a {Type} named {one two three four|Name}
+ArtifactCreateIntent make a {Type} named {one two three four five|Name}
+ArtifactCreateIntent make a {Type} named {one two three four five six|Name}
+ArtifactCreateIntent make a {Type} named {one two three four five six seven|Name}
+ArtifactCreateIntent make a {Type} named {one two three four five six seven eight|Name}
+ArtifactCreateIntent make a {Type} named {one two three four five six seven eight nine|Name}
+ArtifactCreateIntent make a {Type} named {one two three four five six seven eight nine ten|Name}
+ArtifactCreateIntent make a {Type} named {one two three four five six seven eight nine ten eleven|Name}
+ArtifactCreateIntent make a {Type} named {one two three four five six seven eight nine ten eleven twelve|Name}
+ArtifactCreateIntent make a {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen|Name}
+ArtifactCreateIntent make a {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen|Name}
+ArtifactCreateIntent make a {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen|Name}
+ArtifactCreateIntent make a {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen|Name}
+ArtifactCreateIntent make a {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen|Name}
+ArtifactCreateIntent make a {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen|Name}
+ArtifactCreateIntent make a {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen|Name}
+ArtifactCreateIntent make a {Type} named {one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty|Name}
+
+ArtifactFindIntent find {Type} with id {Id}
+ArtifactFindIntent find {Type} with an id of {Id}
+ArtifactFindIntent find {Type} {Id}
+ArtifactFindIntent get {Type} with id {Id}
+ArtifactFindIntent get {Type} with an id of {Id}
+ArtifactFindIntent get {Type} {Id}
+ArtifactFindIntent find {Type} with formatted id {Id}
+ArtifactFindIntent find {Type} with a formatted id of {Id}
+ArtifactFindIntent get {Type} with formatted id {Id}
+ArtifactFindIntent get {Type} with a formatted id of {Id}
+ArtifactFindIntent find a {Type} with id {Id}
+ArtifactFindIntent find a {Type} with an id of {Id}
+ArtifactFindIntent get a {Type} with id {Id}
+ArtifactFindIntent get a {Type} with an id of {Id}
+ArtifactFindIntent find a {Type} with formatted id {Id}
+ArtifactFindIntent find a {Type} with a formatted id of {Id}
+ArtifactFindIntent get a {Type} with formatted id {Id}
+ArtifactFindIntent get a {Type} with a formatted id of {Id}
+
+ArtifactReadyIntent ready {Type} {Id}
+ArtifactReadyIntent mark {Type} {Id} ready
+ArtifactReadyIntent to ready {Type} {Id}
+ArtifactReadyIntent to mark {Type} {Id} ready
+
+ArtifactUnreadyIntent unready {Type} {Id}
+ArtifactUnreadyIntent mark {Type} {Id} unready
+ArtifactUnreadyIntent to unready {Type} {Id}
+ArtifactUnreadyIntent to mark {Type} {Id} unready
+
+ArtifactBlockIntent block {Type} {Id}
+ArtifactBlockIntent mark {Type} {Id} block
+ArtifactBlockIntent to block {Type} {Id}
+ArtifactBlockIntent to mark {Type} {Id} blocked
+
+ArtifactBlockedReasonIntent no blocked reason
+ArtifactBlockedReasonIntent add blocked reason {one|Reason}
+ArtifactBlockedReasonIntent add blocked reason {one two|Reason}
+ArtifactBlockedReasonIntent add blocked reason {one two three|Reason}
+ArtifactBlockedReasonIntent add blocked reason {one two three four|Reason}
+ArtifactBlockedReasonIntent add blocked reason {one two three four five|Reason}
+ArtifactBlockedReasonIntent add blocked reason {one two three four five six|Reason}
+ArtifactBlockedReasonIntent add blocked reason {one two three four five six seven|Reason}
+ArtifactBlockedReasonIntent add blocked reason {one two three four five six seven eight|Reason}
+ArtifactBlockedReasonIntent add blocked reason {one two three four five six seven eight nine|Reason}
+ArtifactBlockedReasonIntent add blocked reason {one two three four five six seven eight nine ten|Reason}
+ArtifactBlockedReasonIntent add blocked reason {one two three four five six seven eight nine ten eleven|Reason}
+ArtifactBlockedReasonIntent add blocked reason {one two three four five six seven eight nine ten eleven twelve|Reason}
+ArtifactBlockedReasonIntent add blocked reason {one two three four five six seven eight nine ten eleven twelve thirteen|Reason}
+
+
+ArtifactUnblockIntent unblock {Type} {Id}
+ArtifactUnblockIntent mark {Type} {Id} unblock
+ArtifactUnblockIntent to unblock {Type} {Id}
+ArtifactUnblockIntent to mark {Type} {Id} unblock
+
+ArtifactMoveIntent move {Type} {Id} to {State}
+ArtifactMoveIntent put {Type} {Id} in {State}
+ArtifactMoveIntent mark {Type} {Id} as {State}
+ArtifactMoveIntent to move {Type} {Id} to {State}
+ArtifactMoveIntent to put {Type} {Id} in {State}
+ArtifactMoveIntent to mark {Type} {Id} as {State}
+
+ArtifactHelpIntent help me with {Task}
+ArtifactHelpIntent help with {Task}
+
+EasterEggContractTestIntent how many contract tests have {name|Name} written
+EasterEggContractTestIntent how many contract tests has {name|Name} written
+
+EasterEggPasswordIntent to reset my password
+
+EasterEggArtifactTimeIntent how long will {Type} {Id} take
+
+EasterEggFreeFoodIntent where is the free food
+EasterEggFreeFoodIntent is there free food
+EasterEggFreeFoodIntent when is there free food

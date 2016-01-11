@@ -1,0 +1,8 @@
+Artifacts	
+story | user story | defect | bug
+
+States	
+Idea | Defined | In-Progress | Completed | Accepted | Released
+
+Tasks	
+create | find | block | unblock | ready | unready | move | stop | help

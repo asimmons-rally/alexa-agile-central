@@ -1,0 +1,160 @@
+{
+  "intents": [
+    {
+      "intent": "ArtifactCreateIntent",
+      "slots": [
+        {
+          "name": "Type",
+          "type": "Artifacts"
+        },
+        {
+          "name": "Name",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "ArtifactFindIntent",
+      "slots": [
+        {
+          "name": "Type",
+          "type": "Artifacts"
+        },
+        {
+          "name": "Id",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "ArtifactReadyIntent",
+      "slots": [
+        {
+          "name": "Type",
+          "type": "Artifacts"
+        },
+        {
+          "name": "Id",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "ArtifactUnreadyIntent",
+      "slots": [
+        {
+          "name": "Type",
+          "type": "Artifacts"
+        },
+        {
+          "name": "Id",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "ArtifactBlockIntent",
+      "slots": [
+        {
+          "name": "Type",
+          "type": "Artifacts"
+        },
+        {
+          "name": "Id",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "ArtifactBlockedReasonIntent",
+      "slots": [
+        {
+          "name": "Reason",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "ArtifactUnblockIntent",
+      "slots": [
+        {
+          "name": "Type",
+          "type": "Artifacts"
+        },
+        {
+          "name": "Id",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "ArtifactMoveIntent",
+      "slots": [
+        {
+          "name": "Type",
+          "type": "Artifacts"
+        },
+        {
+          "name": "Id",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "State",
+          "type": "States"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "ArtifactHelpIntent",
+      "slots": [
+        {
+          "name": "Task",
+          "type": "Tasks"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "EasterEggContractTestIntent",
+      "slots": [
+        {
+          "name": "Name",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "EasterEggPasswordIntent"
+    },
+    {
+      "intent": "EasterEggArtifactTimeIntent",
+      "slots": [
+        {
+          "name": "Type",
+          "type": "Artifacts"
+        },
+        {
+          "name": "Id",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "EasterEggFreeFoodIntent"
+    }
+  ]
+}
