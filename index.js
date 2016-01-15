@@ -31,7 +31,7 @@ var rally = require('rally');
 var restApi = rally({
         //user: 'userName', //required if no api key, defaults to process.env.RALLY_USERNAME
         //pass: 'password', //required if no api key, defaults to process.env.RALLY_PASSWORD
-        apiKey: '_IQTSGqEkQbSbkfCnFQJNoJw5XXfccEphk4yGEmRlex0', //preferred, required if no user/pass, defaults to process.env.RALLY_API_KEY
+        apiKey: '', //preferred, required if no user/pass, defaults to process.env.RALLY_API_KEY
         server: 'https://rally1.rallydev.com',  //this is the default and may be omitted
         requestOptions: {
             headers: {
